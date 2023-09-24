@@ -17,7 +17,7 @@
 }
 .home-container2 {
   flex: 0 0 auto;
-  width: 200px;
+  width: auto;
   height: auto;
   display: flex;
   align-items: center;
@@ -30,7 +30,7 @@
   display: flex;
   padding: 15px;
   align-self: center;
-  box-shadow: 5px 5px 20px 0px #d4d4d4;
+  box-shadow: 0px 5px 20px 0px #d4d4d4;
   align-items: center;
   padding-top: 10px;
   padding-left: 10px;
