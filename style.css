@@ -1,40 +1,40 @@
 @font-face {
-  font-family: Outfit Medium;
+  font-family: "Outfit Medium";
   font-style: normal;
   font-format: truetype;
   font-weight: 500;
   src: url("public/fonts/outfit-medium.ttf") ;
 }
 @font-face {
-  font-family: Outfit SemiBold;
+  font-family: "Outfit SemiBold";
   font-style: normal;
   font-format: truetype;
   font-weight: 600;
   src: url("public/fonts/outfit-semibold.ttf") ;
 }
 @font-face {
-  font-family: Outfit Black;
+  font-family: "Outfit Black";
   font-style: normal;
   font-format: truetype;
   font-weight: 900;
   src: url("public/fonts/outfit-black.ttf") ;
 }
 @font-face {
-  font-family: Outfit ExtraBold;
+  font-family: "Outfit ExtraBold";
   font-style: normal;
   font-format: truetype;
   font-weight: 800;
   src: url("public/fonts/outfit-extrabold.ttf") ;
 }
 @font-face {
-  font-family: Outfit Thin;
+  font-family: "Outfit Thin";
   font-style: normal;
   font-format: truetype;
   font-weight: 100;
   src: url("public/fonts/outfit-variablefont_wght.ttf") ;
 }
 @font-face {
-  font-family: Outfit;
+  font-family: "Outfit";
   font-style: normal;
   font-format: truetype;
   font-weight: 400;
