@@ -9,6 +9,7 @@
   background-color: #F1F4F8;
 }
 .home-nav {
+  top: 0px;
   width: 100%;
   max-width: 1000px;
   align-items: center;
@@ -363,6 +364,9 @@
   .home-feature-container {
     gap: var(--dl-space-space-unit);
     flex-direction: column;
+  }
+  .home-feature-wrapper {
+    margin-bottom: var(--dl-space-space-unit);
   }
   .home-container08 {
     align-items: center;
