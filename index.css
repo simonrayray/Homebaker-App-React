@@ -313,6 +313,27 @@
   font-family: "Outfit SemiBold";
   text-decoration: none;
 }
+@media(max-width: 1600px) {
+  .home-container {
+    width: 100%;
+  }
+  .home-body {
+    width: auto;
+    align-items: center;
+  }
+}
+@media(max-width: 1200px) {
+  .home-container {
+    width: 100%;
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #F1F4F8;
+  }
+  .home-home-container {
+    width: 100%;
+  }
+}
 @media(max-width: 767px) {
   .home-body {
     align-items: center;
