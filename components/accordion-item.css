@@ -1,0 +1,31 @@
+.accordion-item-accordion-item {
+  position: relative;
+}
+.accordion-item-top-row {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-halfunit);
+  justify-content: space-between;
+}
+.accordion-item-text {
+  font-size: 1rem;
+  font-family: "Outfit SemiBold";
+  line-height: 1rem;
+  margin-bottom: 2px;
+}
+.accordion-item-icon {
+  width: 24px;
+  height: 24px;
+}
+.accordion-item-body {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.accordion-item-text1 {
+  font-size: 1rem;
+  font-family: "Outfit";
+}

@@ -1,0 +1,105 @@
+.getting-started-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.getting-started-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: #F1F4F8;
+}
+.getting-started-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  max-width: 570px;
+  margin-top: var(--dl-space-space-twounits);
+  align-items: center;
+  padding-top: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+  flex-direction: column;
+  padding-bottom: var(--dl-space-space-unit);
+  justify-content: center;
+}
+.getting-started-container3 {
+  flex: 0 0 auto;
+  width: auto;
+  display: flex;
+  align-self: center;
+  box-shadow: 0px 5px 20px 0px #d4d4d4;
+  align-items: center;
+  padding-top: var(--dl-space-space-halfunit);
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: 12px;
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  justify-content: center;
+  background-color: #ffffff;
+}
+.getting-started-lottie-node {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+.getting-started-text {
+  font-size: 1.5rem;
+  font-family: Outfit SemiBold;
+}
+.getting-started-container4 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-width: 570px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+}
+.getting-started-text1 {
+  text-align: center;
+  font-family: "Outfit";
+}
+.getting-started-accordion {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  max-width: 570px;
+  margin-top: var(--dl-space-space-oneandhalfunits);
+  align-items: flex-start;
+  flex-direction: column;
+}
+.getting-started-accordion-item {
+  height: auto;
+  position: relative;
+}
+.getting-started-top-row {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--dl-space-space-halfunit);
+  justify-content: space-between;
+}
+.getting-started-text2 {
+  font-size: 1rem;
+  font-family: "Outfit SemiBold";
+  line-height: 1rem;
+  margin-bottom: 2px;
+}
+.getting-started-body {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.getting-started-text3 {
+  font-size: 1rem;
+  font-family: "Outfit";
+}

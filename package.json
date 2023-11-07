@@ -6,6 +6,12 @@
     "parcel-bundler": "^1.6.1",
     "@lottiefiles/lottie-player": "1.5.7"
   },
-  "scripts": {},
-  "devDependencies": {}
+  "scripts": {
+    "tailwind": "tailwindcss -o style.css -c ./tailwind.config.js"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.0.24",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14"
+  }
 }
