@@ -142,7 +142,6 @@
   height: auto;
   display: flex;
   z-index: 1;
-  position: absolute;
   align-self: center;
   align-items: flex-start;
   padding-right: var(--dl-space-space-oneandhalfunits);
