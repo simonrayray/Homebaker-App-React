@@ -1,9 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
- 
- 
- @font-face {
+@font-face {
   font-family: "Outfit Medium";
   font-style: normal;
   font-format: truetype;
